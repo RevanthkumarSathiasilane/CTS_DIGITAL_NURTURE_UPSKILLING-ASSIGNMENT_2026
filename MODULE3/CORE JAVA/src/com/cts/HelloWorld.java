@@ -1,0 +1,13 @@
+package src.com.cts;
+public class HelloWorld{
+  public static void main(String[] args){
+    System.out.println("Hello World");
+  }
+}
+/*Hello World Program
+• Objective: Understand the basic structure of a Java program.
+• Task: Write a Java program that prints "Hello, World!" to the console.
+• Instructions:
+o Create a class named src.com.cts.HelloWorld.
+o Implement the main method.
+o Use System.out.println() to display the message. */
