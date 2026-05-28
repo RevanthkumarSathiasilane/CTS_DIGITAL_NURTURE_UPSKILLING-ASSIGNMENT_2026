@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28e7bb0e-391d-40fe-948b-d987d4d63361" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA FSE/UPSKILLING/Module 3 - Core JAVA/src/com/cts/PublicTranasactionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA FSE/UPSKILLING/Module 3 - Core JAVA/src/com/cts/network35/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA FSE/UPSKILLING/Module 3 - Core JAVA/src/com/cts/network35/Server.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTS DIGITAL NURTURE UPSKILLING 2026.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CTS DIGITAL NURTURE UPSKILLING 2026.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="module-info" />
         <option value="Class" />
       </list>
     </option>
@@ -45,6 +48,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Client.executor": "Run",
     "Application.FileReading.executor": "Run",
     "Application.JDBCExample.executor": "Run",
     "Application.JDBCInsertUpdateExample.executor": "Coverage",
@@ -55,6 +59,7 @@
     "Application.PublicTranasactionExample.executor": "Run",
     "Application.RecordFilterPersonBasedOnAge.executor": "Run",
     "Application.RecursiveFibonacci.executor": "Run",
+    "Application.Server.executor": "Run",
     "Application.StringReversal.executor": "Run",
     "Application.ThreadCreation.executor": "Run",
     "Application.TypeCasting.executor": "Run",
