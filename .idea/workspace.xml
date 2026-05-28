@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28e7bb0e-391d-40fe-948b-d987d4d63361" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA FSE/UPSKILLING/Module 3 - Core JAVA/src/com/cts/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA FSE/UPSKILLING/Module 3 - Core JAVA/src/com/cts/ReflectionAPI/ReflectionExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA FSE/UPSKILLING/Module 3 - Core JAVA/src/com/cts/ReflectionAPI/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,6 +60,7 @@
     "Application.PublicTranasactionExample.executor": "Run",
     "Application.RecordFilterPersonBasedOnAge.executor": "Run",
     "Application.RecursiveFibonacci.executor": "Run",
+    "Application.ReflectionExample.executor": "Run",
     "Application.Server.executor": "Run",
     "Application.StringReversal.executor": "Run",
     "Application.ThreadCreation.executor": "Run",
