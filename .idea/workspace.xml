@@ -5,47 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28e7bb0e-391d-40fe-948b-d987d4d63361" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA FSE/UPSKILLING/Module 3 - Core JAVA/src/com/cts/PatternMatchingSwitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_9_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA FSE/UPSKILLING/Module 3 - Core JAVA/src/com/cts/JDBCExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Animal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/ArrayListStudents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/ArrayListStudents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/ArraySumAndAverage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/ArraySumAndAverage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/ClassAndObjectCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/ClassAndObjectCreation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/CustomExceptionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/CustomExceptionExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/DataTypeDemonstration.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/DataTypeDemonstration.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Dog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/EvenOddChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/EvenOddChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/FactorialCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/FactorialCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/FileReading.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/FileReading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/FileWriting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/FileWriting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/GradeCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/GradeCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Guitar.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Guitar.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/HashMapStudents.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/HashMapStudents.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/InheritanceExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/InheritanceExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/InterfaceImplementation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/InterfaceImplementation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/InvalidAgeException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/InvalidAgeException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/LambdaExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/LambdaExpression.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/LeapYearChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/LeapYearChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/MethodOverloading.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/MethodOverloading.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/MultiplicationTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/MultiplicationTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/MyThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/MyThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/NumberGuessingGame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/NumberGuessingGame.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/OperatorPrecedence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/OperatorPrecedence.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/PalindromeChecker.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/PalindromeChecker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Person.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Piano.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Piano.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Playable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/Playable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/RecordFilterPersonBasedOnAge.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/RecordFilterPersonBasedOnAge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/RecursiveFibonacci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/RecursiveFibonacci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/SimpleCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/SimpleCalculator.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/StreamApiEven.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/StreamApiEven.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/StringReversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/StringReversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/ThreadCreation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/ThreadCreation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/TryCatchExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/TryCatchExample.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/TypeCasting.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/TypeCasting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CTS DIGITAL NURTURE UPSKILLING 2026.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CTS DIGITAL NURTURE UPSKILLING 2026.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +48,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.FileReading.executor": "Run",
+    "Application.JDBCExample.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.NumberGuessingGame.executor": "Run",
     "Application.PatternMatchingSwitch.executor": "Run",
@@ -95,9 +59,11 @@
     "Application.TypeCasting.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "Revanth",
     "kotlin-language-version-configured": "true",
-    "project.structure.last.edited": "SDKs",
+    "last_opened_file_path": "E:/mysql-connector-j-9.7.0/mysql-connector-j-9.7.0.jar",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "terminal"
