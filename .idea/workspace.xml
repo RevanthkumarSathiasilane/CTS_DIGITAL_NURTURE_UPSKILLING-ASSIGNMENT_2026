@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28e7bb0e-391d-40fe-948b-d987d4d63361" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_j_9_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA FSE/UPSKILLING/Module 3 - Core JAVA/src/com/cts/JDBCExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA FSE/UPSKILLING/Module 3 - Core JAVA/src/com/cts/JDBCInsertandUpdate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS DIGITAL NURTURE UPSKILLING 2026.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CTS DIGITAL NURTURE UPSKILLING 2026.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +47,8 @@
   "keyToString": {
     "Application.FileReading.executor": "Run",
     "Application.JDBCExample.executor": "Run",
+    "Application.JDBCInsertUpdateExample.executor": "Coverage",
+    "Application.JDBCInsertandUpdate.executor": "Run",
     "Application.MultiplicationTable.executor": "Run",
     "Application.NumberGuessingGame.executor": "Run",
     "Application.PatternMatchingSwitch.executor": "Run",
@@ -60,7 +60,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "Revanth",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "E:/mysql-connector-j-9.7.0/mysql-connector-j-9.7.0.jar",
     "project.structure.last.edited": "Libraries",
@@ -70,6 +70,19 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="JDBCInsertUpdateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.com.cts.JDBCInsertUpdateExample" />
+      <module name="CTS DIGITAL NURTURE UPSKILLING 2026" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.com.cts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ShConfigurationType">
       <option name="SCRIPT_TEXT" value="" />
       <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
@@ -85,6 +98,11 @@
       <envs />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JDBCInsertUpdateExample" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
