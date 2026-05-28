@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28e7bb0e-391d-40fe-948b-d987d4d63361" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JAVA FSE/UPSKILLING/Module 3 - Core JAVA/src/com/cts/network35/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA FSE/UPSKILLING/Module 3 - Core JAVA/src/com/cts/network35/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JAVA FSE/UPSKILLING/Module 3 - Core JAVA/src/com/cts/HTTPClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CTS DIGITAL NURTURE UPSKILLING 2026.iml" beforeDir="false" afterPath="$PROJECT_DIR$/CTS DIGITAL NURTURE UPSKILLING 2026.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/network35/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/network35/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/network35/Server.class" beforeDir="false" afterPath="$PROJECT_DIR$/out-/production/CTS DIGITAL NURTURE UPSKILLING 2026/src/com/cts/network35/Server.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +50,7 @@
   "keyToString": {
     "Application.Client.executor": "Run",
     "Application.FileReading.executor": "Run",
+    "Application.HTTPClient.executor": "Run",
     "Application.JDBCExample.executor": "Run",
     "Application.JDBCInsertUpdateExample.executor": "Coverage",
     "Application.JDBCInsertandUpdate.executor": "Run",
